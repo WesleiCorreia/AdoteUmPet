@@ -1,5 +1,7 @@
 ## Adote um Amiguinho: Seu Guia Completo  /Imersão Alura e Gemini
 
+**Link do Vercel para conseguir visualizar o site: https://adote-um-pet-ten.vercel.app/**
+
 **O que é esse projeto?**
 
 Esse projeto é um site super bacana que tem como objetivo conectar pessoas que amam animais a pets que precisam de um lar. Aqui, você encontra fotos, descrições e informações sobre cães e gatos disponíveis para adoção.
@@ -33,6 +35,4 @@ Quer ajudar a tornar esse projeto ainda mais incrível? Seja muito bem-vindo! Vo
 **Vamos juntos salvar vidas e encontrar lares felizes para os nossos amigos peludos!** 
 
 **#adoção #animais #pets #solidariedade**
-
-**Link do Vercel para conseguir visualizar o site: https://adote-um-pet-ten.vercel.app/**
 
