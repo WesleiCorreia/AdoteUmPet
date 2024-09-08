@@ -1,6 +1,7 @@
 ## Adote um Amiguinho: Seu Guia Completo  /Imersão Alura e Gemini
 
 **Link do Vercel para conseguir visualizar o site: https://adote-um-pet-ten.vercel.app/**
+
 votem em mim!!!
 https://discord.com/channels/1277631721822748742/1277631722716008535/1282172276686590023
 
