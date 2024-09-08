@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Pets</title>
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="cachorros.html">Cachorros</a></li>
+            <li><a href="gatos.html">Gatos</a></li>
+            <li><a href="pesquisa.html">Pesquise Raças</a></li>
+            <li><a href="porQueAdotar.html">Por que adotar?</a></li>
+        </ul>
+    </nav>
+    <header>
+        <h1>Pets</h1>
+    </header>
+    <main>
+        <section>
+            <input type="text" placeholder="Digite a raça/caracteristica do cachorro ou gato" id="campo-pesquisa">
+            <button onclick="pesquisar()">Pesquisar</button>
+        </section>
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+
+        </section>
+    </main>
+    <footer>
+        <p>2024 - Pets. Todos os direitos reservados</p>
+        <p>Entre em contato pelo e-mail: pets@pets.com</p>
+    </footer>
+    <script src="JS/dados.js"></script>
+    <script src="JS/app.js"></script>
+</body>
+
+</html>
