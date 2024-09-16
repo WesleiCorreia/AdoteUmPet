@@ -2,9 +2,6 @@
 
 **Link do Vercel para conseguir visualizar o site: https://adote-um-pet-ten.vercel.app/**
 
-votem em mim!!!
-https://discord.com/channels/1277631721822748742/1277631722716008535/1282172276686590023
-
 **O que é esse projeto?**
 
 Esse projeto é um site super bacana que tem como objetivo conectar pessoas que amam animais a pets que precisam de um lar. Aqui, você encontra fotos, descrições e informações sobre cães e gatos disponíveis para adoção.
